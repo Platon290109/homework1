@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+  }
+  
+  ul,
+  ol {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+.pup{
+    font-family: Open sans;
+    background-color: yellow;
+    color: black;
+}
+.P{
+    font-family: Open sans;
+    background-color: yellow;
+    color: black;
+}
+.u{
+    font-family: Open sans;
+    background-color: yellow;
+    color: black;
+}
+.p{
+    font-family: Open sans;
+    background-color: yellow;
+    color: black;
+}
+.s{
+    font-family: Open sans;
+    background-color: yellow;
+    color: black;
+}
+.i{
+    font-family: Open sans;
+    background-color: yellow;
+    color: black;
+}
+.k{
+    font-family: Open sans;
+    background-color: yellow;
+    color: black;
+}
